@@ -1,4 +1,4 @@
-import pytest
+
 from questions import example
 
 def test_endsPy():
